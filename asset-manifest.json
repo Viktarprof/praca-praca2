@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/praca-praca2/static/css/main.2a00f575.css",
+    "main.js": "/praca-praca2/static/js/main.93bafebb.js",
+    "static/media/screen2.png": "/praca-praca2/static/media/screen2.833a9df8367a605563bf.png",
+    "static/media/screen1.png": "/praca-praca2/static/media/screen1.3a5fc2e7fb635a94b78e.png",
+    "static/media/screen3.png": "/praca-praca2/static/media/screen3.db0fb0e1d8fc91f136f9.png",
+    "static/media/screen4.png": "/praca-praca2/static/media/screen4.f95ed7318d406eefb1b9.png",
+    "index.html": "/praca-praca2/index.html",
+    "main.2a00f575.css.map": "/praca-praca2/static/css/main.2a00f575.css.map",
+    "main.93bafebb.js.map": "/praca-praca2/static/js/main.93bafebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a00f575.css",
+    "static/js/main.93bafebb.js"
+  ]
+}
