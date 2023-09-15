@@ -1,0 +1,23 @@
+.arrow {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+  font-size: 30px;
+  border: none;
+  transition-duration: 1s;
+}
+
+.arrow:hover{
+  transform: scale(1.4);
+}
+
+.play {
+  color: white;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  font-size: 20px;
+  transition-duration: 1s;
+}
+
+ .play:hover {
+  transform: scale(1.4);
+}

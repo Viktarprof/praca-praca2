@@ -1,0 +1,8 @@
+.logoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 78px;
+  
+  border-bottom: 1px solid rgb(179, 179, 179);
+}
